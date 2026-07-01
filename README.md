@@ -1,16 +1,51 @@
-## Hi there 👋
+# Derek Wegerbauer
 
-<!--
-**Derek-Wegerbauer/Derek-Wegerbauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student based in Berlin, Germany, currently building a practical portfolio focused on Linux, networking, scripting, and ethical hacking fundamentals.
 
-Here are some ideas to get you started:
+I am working toward a bachelor’s degree in cybersecurity, expected Spring 2027, and I am preparing for working-student opportunities in cybersecurity, IT security, system administration, and related technical roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Linux and Windows command-line tools
+- Networking fundamentals and packet analysis
+- Python scripting and automation
+- Ethical hacking and penetration-testing methodology
+- Defensive security concepts and lab documentation
+- Building a structured GitHub portfolio with practical projects
+
+## Portfolio Projects
+
+### Simple Port Scanner
+
+A Python-based TCP connect scanner created for educational and authorized testing environments.
+
+Key areas demonstrated:
+
+- Python scripting
+- Socket programming
+- Command-line argument parsing
+- Basic network reconnaissance concepts
+- Error handling and input validation
+- Documentation and testing
+
+Repository: Coming soon
+
+## Lab & Write-Up Areas
+
+I am currently organizing practical lab notes and write-ups in the following areas:
+
+- Linux command-line administration
+- Networking and packet analysis
+- Windows security fundamentals
+- Vulnerability scanning and basic reconnaissance
+- Defensive monitoring concepts
+- Ethical hacking labs in controlled environments
+
+## Career Direction
+
+My long-term goal is to work in cybersecurity with a focus on penetration testing, ethical hacking, and practical security assessment. I am also building strong foundations in system administration, networking, Linux, and scripting because these are essential skills for both offensive and defensive security roles.
+
+## Contact
+
+- LinkedIn: Coming soon
+- GitHub: This profile
