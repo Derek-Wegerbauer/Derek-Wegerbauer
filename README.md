@@ -28,7 +28,7 @@ Key areas demonstrated:
 - Error handling and input validation
 - Documentation and testing
 
-Repository: Coming soon
+Repository: [simple-port-scanner](https://github.com/Derek-Wegerbauer/simple-port-scanner)
 
 ## Lab & Write-Up Areas
 
